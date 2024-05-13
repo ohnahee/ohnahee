@@ -1,7 +1,9 @@
 
 ### 😄 Hee's GitHub ዽ ጿ ኈ ቼ ዽ ጿ ኈ ቼ ዽ ጿ ኈ ቼ ዽ
- 
-[![ohnahee's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohnahee)](https://github.com/ohnahee/github-readme-stats)
+
+![ohnahee's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohnahee&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohnahee&layout=compact)
 
 + 🌱 Information security(infosec), digital forensic
 + 🌱 learning language <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
