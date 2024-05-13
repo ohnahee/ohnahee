@@ -1,6 +1,6 @@
-### ዽ ጿ ኈ ቼ ዽ ጿ ኈ ቼ ዽ ጿ ኈ ቼ ዽ
-### 😄 Hee's GitHub
 
+### 😄 Hee's GitHub ዽ ጿ ኈ ቼ ዽ ጿ ኈ ቼ ዽ ጿ ኈ ቼ ዽ
+ 
 [![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohnahee)](https://github.com/ohnahee/github-readme-stats)
 
 + 🌱 Information security(infosec), digital forensic
