@@ -3,8 +3,8 @@
 
 [![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohnahee)](https://github.com/ohnahee/github-readme-stats)
 
-+ Information security(infosec), digital forensic
-+ <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
++ 🌱 Information security(infosec), digital forensic
++ learning language <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
 <!--
 **ohnahee/ohnahee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
