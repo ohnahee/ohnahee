@@ -1,12 +1,10 @@
-### Profile
+### ዽ ጿ ኈ ቼ ዽ ጿ ኈ ቼ ዽ ጿ ኈ ቼ ዽ
+### Hee's GitHub
 
-ዽ ጿ ኈ ቼ ዽ ጿ ኈ ቼ ዽ ጿ ኈ ቼ ዽ
-Information security(infosec), digital forensic 관련으로 공부중인 Hee 입니다.
-많이 부족하고 얕은 지식이지만.. 최대한 재미있게 공부하려 하고 있습니다.
+[![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohnahee)](https://github.com/ohnahee/github-readme-stats)
 
-주 언어  
-<img src="https://img.shields.io/badge/A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-
++ Information security(infosec), digital forensic
++ <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
 <!--
 **ohnahee/ohnahee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
