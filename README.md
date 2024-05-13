@@ -3,7 +3,7 @@
 
 ![ohnahee's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohnahee&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohnahee&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohnahee&show_icons=true&theme=radical)
 
 + 🌱 Information security(infosec), digital forensic
 + 🌱 learning language <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
