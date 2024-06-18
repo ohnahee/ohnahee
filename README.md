@@ -1,8 +1,6 @@
 
 ### 😄 Hee's GitHub ዽ ጿ ኈ ቼ ዽ ጿ ኈ ቼ ዽ ጿ ኈ ቼ ዽ
 
-![ohnahee's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohnahee&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohnahee&show_icons=true&theme=radical)
 
 + 🌱 Information security(infosec), digital forensic
